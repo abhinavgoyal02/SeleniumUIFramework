@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="23987" started-at="2018-09-28T00:58:34Z" finished-at="2018-09-28T00:58:58Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="23987" started-at="2018-09-28T00:58:34Z" finished-at="2018-09-28T00:58:58Z">
+      <class name="com.autoqa.framework.uitest.webtestcases.SampleWebDriverTest">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.autoqa.framework.uitest.webtestcases.SampleWebDriverTest@1d057a39]" name="beforeClass" is-config="true" duration-ms="13956" started-at="2018-09-28T06:28:34Z" finished-at="2018-09-28T06:28:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="f()[pri:0, instance:com.autoqa.framework.uitest.webtestcases.SampleWebDriverTest@1d057a39]" name="f" duration-ms="5525" started-at="2018-09-28T06:28:48Z" finished-at="2018-09-28T06:28:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- f -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.autoqa.framework.uitest.webtestcases.SampleWebDriverTest@1d057a39]" name="afterClass" is-config="true" duration-ms="4482" started-at="2018-09-28T06:28:53Z" finished-at="2018-09-28T06:28:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+      </class> <!-- com.autoqa.framework.uitest.webtestcases.SampleWebDriverTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
